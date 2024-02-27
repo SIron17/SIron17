@@ -19,6 +19,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
 
+## Tech
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"> <img src="https://img.shields.io/badge/Scikit-learnF7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white">
+
 ## IDE
 ![intellijidea](https://img.shields.io/badge/IntelliJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
