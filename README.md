@@ -30,6 +30,12 @@
 ## Certificate
 <div align="center">
 <a href = "https://www.credential.net/0eb9c4d9-807e-44e5-b972-f7c66ed086df#gs.5gjv64">
-<img src="https://images.credential.net/embed/hwowd0ae.png" style="width:600px"/>
+<img src="https://images.credential.net/embed/hwowd0ae.png" style="width:60%"/>
+</a>
+</div>  
+
+<div align="center">
+<a href = "https://www.coursera.org/account/accomplishments/professional-cert/AW8LREJXXYU4">
+<img src="https://github.com/SIron17/SIron17/assets/118886996/311548cd-c113-482e-9bdc-30daf82e2271.png" style="width:60%"/>
 </a>
 </div>
