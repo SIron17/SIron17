@@ -36,6 +36,6 @@
 
 <div align="center">
 <a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/3GTUSD64YJAH">
-<img src="https://github.com/SIron17/SIron17/assets/118886996/e765ac97-2358-4801-a1d7-e9876f0bc055.png" style="width:60%"/>
+<img src="https://github.com/SIron17/SIron17/assets/118886996/e765ac97-2358-4801-a1d7-e9876f0bc055.png" style="width:100%"/>
 </a>
 </div>
