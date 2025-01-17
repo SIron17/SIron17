@@ -6,8 +6,8 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIron17&show_icons=true&theme=radical) --> 
 
-## Current Research 📖
-### Computer Communications (2022.11 ~ )
+## Current Work 📊
+### Data Analysis (2025.01 ~ )
 
 ## Interest 🌱
 * ### Data Science
